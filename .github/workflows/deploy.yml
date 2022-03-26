@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: arshsisodiya/heliosmirror:latest
+          tags: kamileecher/mltbot:latest
